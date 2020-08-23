@@ -18,8 +18,8 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 Browse through my Github repositories for more.
 
  
- Reach me at [zeeshanmullamail@gmail.com](zeeshanmullamail@gmail.com)
- Alternate mail: [zeeshanmulla@outlook.com](zeeshanmulla@outlook.com)
+ Reach me at [zeeshanmullamail@gmail.com](mailto:zeeshanmullamail@gmail.com)
+ Alternate mail: [zeeshanmulla@outlook.com](mailto:zeeshanmulla@outlook.com)
  
  
  
