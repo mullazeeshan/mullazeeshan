@@ -1,4 +1,5 @@
 ### Hi there 🤗
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/mullazeeshan?label=Follow&style=social)](https://github.com/mullazeeshan)
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
@@ -47,11 +48,14 @@ Browse through my Github repositories for more.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+
 
 
  
