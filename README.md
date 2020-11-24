@@ -19,7 +19,7 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 
 
 [<img align="left" alt="Zeeshan Mulla | Github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    [<img align="left" alt="Zeeshan Mulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/)      [<img align="left" alt="Zeeshan Mulla | Sourcerer" width="22px" src="https://sourcerer.io/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan)      [<img align="left" alt="Zeeshan Mulla | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808)      [<img align="left" alt="Zeeshan Mulla | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1)
-<br>
+<br/>
 [<img align="left" alt="Zeeshan Mulla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01)
 [<img align="left" alt="Zeeshan Mulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/)
 [<img align="left" alt="Zeeshan Mulla | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/zeeshanmulla/)
