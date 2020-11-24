@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zeeshanmullamail@gmail.com)
 
-My name is Mohammed Zeeshan Mulla and I am from Mumbai, India.
+[![Location](https://www.flaticon.com/free-icon/location_535239?term=location&page=1&position=9)] Mumbai, India.
 
 I'm a Data Science practitioner and computer programmer with an avid interest lies in applied machine learning and deep learning.
 
@@ -18,11 +18,11 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 [E-Portfolio](https://mullazeeshan.github.io) | [LinkedIn](https://www.linkedin.com/in/zeeshanmulla) | [Visual Profile](https://sourcerer.io/mullazeeshan) | [Click to Chat](https://wa.link/sz7808) | [skype](zeeshanmulla_1)
 
 
-[<img align="left" alt="Zeeshan Mulla" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io)
-[<img align="left" alt="Zeeshan Mulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/)
-[<img align="left" alt="Zeeshan Mulla" width="22px" src="https://sourcerer.io/mullazeeshan/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan)
-[<img align="left" alt="Zeeshan Mulla | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808)
-[<img align="left" alt="Zeeshan Mulla | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1)
+[<img align="left" alt="Zeeshan Mulla | Github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io) &nbsp; &nbsp;
+[<img align="left" alt="Zeeshan Mulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) &nbsp; &nbsp;
+[<img align="left" alt="Zeeshan Mulla | Sourcerer" width="22px" src="https://sourcerer.io/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan) &nbsp; &nbsp;
+[<img align="left" alt="Zeeshan Mulla | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) &nbsp; &nbsp;
+[<img align="left" alt="Zeeshan Mulla | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1) &nbsp; &nbsp;
 
 [<img align="left" alt="Zeeshan Mulla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01)
 [<img align="left" alt="Zeeshan Mulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/)
