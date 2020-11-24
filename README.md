@@ -1,4 +1,4 @@
-### Hi there 🤗
+### Hi there I'm Zeeshan - aka [mullazeeshan](https://www.github.com/mullazeeshan), [website](https://mullazeeshan.github.io) 👋🤗 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/mullazeeshan?label=Follow&style=social)](https://github.com/mullazeeshan)
@@ -16,6 +16,19 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 <h2 style="text-align:center">Social Profiles</h2>
 
 [E-Portfolio](https://mullazeeshan.github.io) | [LinkedIn](https://www.linkedin.com/in/zeeshanmulla) | [Visual Profile](https://sourcerer.io/mullazeeshan) | [Click to Chat](https://wa.link/sz7808) | [skype](zeeshanmulla_1)
+
+
+[<img align="left" alt="Zeeshan Mulla" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io)
+[<img align="left" alt="Zeeshan Mulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/)
+[<img align="left" alt="Zeeshan Mulla" width="22px" src="https://sourcerer.io/mullazeeshan/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan)
+[<img align="left" alt="Zeeshan Mulla | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808)
+[<img align="left" alt="Zeeshan Mulla | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1)
+
+[<img align="left" alt="Zeeshan Mulla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01)
+[<img align="left" alt="Zeeshan Mulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/)
+[<img align="left" alt="Zeeshan Mulla | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/zeeshanmulla/)
+[<img align="left" alt="Zeeshan Mulla | Facebppl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla)
+
 
 
 Browse through my Github repositories for more.
