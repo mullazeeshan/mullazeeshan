@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zeeshanmullamail@gmail.com)
 
-[![Location](https://www.flaticon.com/free-icon/location_535239?term=location&page=1&position=9)] Mumbai, India.
+[<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://mullazeeshan.github.io) Mumbai, India.
 
 I'm a Data Science practitioner and computer programmer with an avid interest lies in applied machine learning and deep learning.
 
