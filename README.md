@@ -16,9 +16,13 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 <h2 style="text-align:center">Social Profiles</h2>
 
 [<img align="left" alt="Zeeshan Mulla | Github.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io) [E-Portfolio](https://mullazeeshan.github.io)  | 
+
 [<img align="left" alt="Zeeshan Mulla | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) [LinkedIn](https://www.linkedin.com/in/zeeshanmulla)  | 
+
 [<img align="left" alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://sourcerer.io/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) | 
+
 [<img align="left" alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) | 
+
 [<img align="left" alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1) [skype](zeeshanmulla_1) 
 
 
