@@ -27,12 +27,13 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 [<img alt="Zeeshan Mulla | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01) [Twitter](https://twitter.com/zeeshanmulla01) | 
 [<img alt="Zeeshan Mulla | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/) [Instagram](https://instagram.com/zee7868) | 
 [<img alt="Zeeshan Mulla | Kaggle" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/zeeshanmulla/) [Kaggle](https://kaggle.com/zeeshanmulla) | 
-[<img alt="Zeeshan Mulla | Facebppl" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla) [Facebook](https://www.facebook.com/zeeshanmulla) | 
-
+[<img alt="Zeeshan Mulla | Facebppl" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla) [Facebook](https://www.facebook.com/zeeshanmulla) |
+[<img alt="Zeeshan Mulla | Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />](https://www.reddit.com/user/zeeshanmulla) [Reddit](https://www.reddit.com/user/zeeshanmulla)
+[<img alt="Zeeshan Mulla | Stackoverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12689755/zeeshanmulla) [Stackoverflow](https://stackoverflow.com/users/12689755/zeeshanmulla)
+[<img alt="Zeeshan Mulla | Quora" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/quora.svg" />](https://www.quora.com/profile/ZeeshanMulla) [Quora](https://www.quora.com/profile/ZeeshanMulla)
 
 
 Browse through my Github repositories for more.
-
  
  Reach me at [zeeshanmullamail@gmail.com](mailto:zeeshanmullamail@gmail.com)
  Alternate mail: [zeeshanmulla@outlook.com](mailto:zeeshanmulla@outlook.com)
