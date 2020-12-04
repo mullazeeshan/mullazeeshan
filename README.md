@@ -20,7 +20,7 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 
 [<img  alt="Zeeshan Mulla | Github.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io) [E-Portfolio](https://mullazeeshan.github.io)  | 
 [<img alt="Zeeshan Mulla | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) [LinkedIn](https://www.linkedin.com/in/zeeshanmulla)  | 
-[<img  alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://sourcerer.io/icons/logo-bright.svg" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) | 
+
 [<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) | 
 [<img alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1) [skype](zeeshanmulla_1) |
 [<img  alt="Zeeshan Mulla | YourAcclaim" width="20px" src="https://www.humhub.com/marketplace/youracclaim/download-image" />](https://www.youracclaim.com/users/zeeshanmulla/badges) [YourAcclaim](https://www.youracclaim.com/users/zeeshanmulla/badges)
@@ -35,6 +35,11 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 [<img alt="Zeeshan Mulla | Stackoverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12689755/zeeshanmulla) [Stackoverflow](https://stackoverflow.com/users/12689755/zeeshanmulla)
 [<img alt="Zeeshan Mulla | Quora" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/quora.svg" />](https://www.quora.com/profile/ZeeshanMulla) [Quora](https://www.quora.com/profile/ZeeshanMulla)
 
+<p align="center">
+<a href="https://dev.to/mullazeeshan">
+  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohammed Zeeshan Mulla's DEV Profile" height="30" width="30">
+</a>
+</p>
 
 Browse through my Github repositories for more.
  
