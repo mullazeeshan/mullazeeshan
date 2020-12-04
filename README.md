@@ -23,7 +23,7 @@ When in times of leisure, I like to read books in the genre of mystery, and self
 [<img  alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) |
 [<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) |
 [<img alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1) [skype](zeeshanmulla_1) |
-[<img  alt="Zeeshan Mulla | YourAcclaim" width="20px" src="https://github.com/mullazeeshan/mullazeeshan.github.io/blob/master/js/your-acclaim.jpg?raw=true" />](https://www.youracclaim.com/users/zeeshanmulla/badges) [YourAcclaim](https://www.youracclaim.com/users/zeeshanmulla/badges)
+[<img  alt="Zeeshan Mulla | YourAcclaim" width="20px" src="https://github.com/mullazeeshan/mullazeeshan.github.io/blob/master/js/your-acclaim.jpg" />](https://www.youracclaim.com/users/zeeshanmulla/badges) [YourAcclaim](https://www.youracclaim.com/users/zeeshanmulla/badges)
 
                       
 
