@@ -79,10 +79,11 @@ Browse through my Github repositories for more.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 
 
+ 
+ 
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
- 
- 
-<!--
 **mullazeeshan/mullazeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
