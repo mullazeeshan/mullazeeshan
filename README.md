@@ -11,10 +11,11 @@ I'm a Data Science practitioner and computer programmer with an avid interest li
 
 You can see what I am currently upto on [zeeshanmulla.me](https://www.zeeshanmulla.me/)
 
-When in times of leisure, I like to read books in the genre of mystery, and self-help and varied interest for gaming or variety of sports. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
-- 👯 I’m looking to collaborate on machine learning and natural language projects including speech models and healthcareNLP.
-- 💬 Ask me about healthcare ml, bigdata, deep learning, nlp, finance.
-- ⚡ Fun fact: I love to cook, and play adventure games.
+When in times of leisure,
+ - ⚡ Fun fact: I love to cook, to read books in the genre of mystery, and self-help and varied interest for gaming or variety of sports.. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
+- 👯 I’m looking to collaborate on machine learning and natural language projects, DL Computer vision too interests me and healthcareNLP.
+- 💬 Ask me about ml, bigdata, deep learning, nlp, healthcare, finance.
+
 
 <h2 style="text-align:center">Social Profiles</h2>
 
