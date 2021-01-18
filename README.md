@@ -2,7 +2,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/mullazeeshan?label=Follow&style=social)](https://github.com/mullazeeshan)
+[![Gitlab](https://img.shields.io/badge/Zeeshan%20Mulla-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/zeeshanmulla)](https://gitlab.com/zeeshanmulla)
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
+[![Twitter](https://img.shields.io/twitter/follow/zeeshanmulla01?style=social)](https://twitter.com/intent/follow?screen_name=zeeshanmulla01)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zeeshanmullamail@gmail.com)
 
 [<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://mullazeeshan.github.io) Mumbai, India.
