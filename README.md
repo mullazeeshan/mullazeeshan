@@ -9,10 +9,10 @@
 
 [<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://mullazeeshan.github.io) Mumbai, India.
 
-I'm a Data Science practitioner and computer programmer with an avid interest lies in applied machine learning and deep learning.
+I'm a Data Science practitioner and computer programmer with an avid interest lies in applied ML | DL | NLP.
 
 When in times of leisure,
- - ⚡ Fun fact: I love to cook, to read books in the genre of mystery, and self-help and varied interest for gaming or variety of sports.. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
+ - ⚡ Fun fact: I love to cook, spend my time learning, discovering new technologies and watching tech videos, but sometimes I also like to enjoy real life moments. and self-help and varied interest for gaming or variety of sports.. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
 - 👯 I’m looking to collaborate on machine learning and natural language projects, DL Computer vision too interests me and healthcareNLP.
 - 💬 Ask me about ml, bigdata, deep learning, nlp, healthcare, finance.
 
