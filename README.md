@@ -1,4 +1,4 @@
-### Hi there I'm Zeeshan - aka [mullazeeshan](https://www.github.com/mullazeeshan), [website](https://mullazeeshan.github.io) 👋🤗 
+### Hi there I'm Zeeshan - aka [zeeshanmulla](https://www.github.com/zeeshanmulla), [website](https://zeeshanmulla.github.io) 👋🤗 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/zeeshanmulla?label=Follow&style=social)](https://github.com/zeeshanmulla)
