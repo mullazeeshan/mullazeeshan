@@ -1,13 +1,13 @@
 ### Hi there I'm Zeeshan - aka [mullazeeshan](https://www.github.com/mullazeeshan), [website](https://mullazeeshan.github.io) 👋🤗 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
-[![Github](https://img.shields.io/github/followers/mullazeeshan?label=Follow&style=social)](https://github.com/mullazeeshan)
+[![Github](https://img.shields.io/github/followers/zeeshanmulla?label=Follow&style=social)](https://github.com/zeeshanmulla)
 [![Gitlab](https://img.shields.io/badge/Zeeshan%20Mulla-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/zeeshanmulla)](https://gitlab.com/zeeshanmulla)
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
 [![Twitter](https://img.shields.io/twitter/follow/zeeshanmulla01?style=social)](https://twitter.com/intent/follow?screen_name=zeeshanmulla01)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zeeshanmullamail@gmail.com)
 
-[<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://mullazeeshan.github.io) Mumbai, India.
+[<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://zeeshanmulla.github.io) Mumbai, India.
 
 I'm a Data Science practitioner and computer programmer with an avid interest lies in applied ML | DL | NLP.
 
@@ -19,7 +19,7 @@ When in times of leisure,
 
 <h2 style="text-align:center">Social Profiles</h2>
 
-[<img  alt="Zeeshan Mulla | Github.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mullazeeshan.github.io) [E-Portfolio](https://mullazeeshan.github.io) |
+[<img  alt="Zeeshan Mulla | Github.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://zeeshanmulla.github.io) [E-Portfolio](https://zeeshanmulla.github.io) |
 [<img alt="Zeeshan Mulla | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) [LinkedIn](https://www.linkedin.com/in/zeeshanmulla) |
 [<img  alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) |
 [<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) |
@@ -86,7 +86,7 @@ Browse through my Github repositories for more.
 <!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-**mullazeeshan/mullazeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zeeshanmulla/zeeshanmulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
