@@ -1,4 +1,4 @@
-### Hi there I'm Zeeshan - aka [zeeshanmulla](https://www.github.com/zeeshanmulla), [website](https://zeeshanmulla.github.io) 👋🤗 
+### Hi there I'm Zeeshan - aka [zeeshanmulla](https://bit.ly/zeeshanmulla), [website](https://zeeshanmulla.github.io) 👋🤗 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/zeeshanmulla?label=Follow&style=social)](https://github.com/zeeshanmulla)
@@ -23,7 +23,7 @@ When in times of leisure,
 [<img alt="Zeeshan Mulla | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) [LinkedIn](https://www.linkedin.com/in/zeeshanmulla) |
 [<img  alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) |
 [<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) |
-[<img alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](zeeshanmulla_1) [skype](zeeshanmulla_1) |
+[<img alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](https://join.skype.com/invite/WcqkZEzASXC1) [skype](https://join.skype.com/invite/WcqkZEzASXC1) |
 [<img  alt="Zeeshan Mulla | YourAcclaim" width="20px" src="https://github.com/mullazeeshan/mullazeeshan.github.io/blob/master/js/your-acclaim.jpg" />](https://www.youracclaim.com/users/zeeshanmulla/badges) [YourAcclaim](https://www.youracclaim.com/users/zeeshanmulla/badges)
 
                       
@@ -31,13 +31,13 @@ When in times of leisure,
 [<img alt="Zeeshan Mulla | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01) [Twitter](https://twitter.com/zeeshanmulla01) | 
 [<img alt="Zeeshan Mulla | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/) [Instagram](https://instagram.com/zee7868) | 
 [<img alt="Zeeshan Mulla | Kaggle" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/zeeshanmulla/) [Kaggle](https://kaggle.com/zeeshanmulla) | 
-[<img alt="Zeeshan Mulla | Facebppl" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla) [Facebook](https://www.facebook.com/zeeshanmulla) |
+[<img alt="Zeeshan Mulla | Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla) [Facebook](https://www.facebook.com/zeeshanmulla) |
 [<img alt="Zeeshan Mulla | Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/reddit.svg" />](https://www.reddit.com/user/zeeshanmulla) [Reddit](https://www.reddit.com/user/zeeshanmulla)
 [<img alt="Zeeshan Mulla | Stackoverflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12689755/zeeshanmulla) [Stackoverflow](https://stackoverflow.com/users/12689755/zeeshanmulla)
 [<img alt="Zeeshan Mulla | Quora" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/quora.svg" />](https://www.quora.com/profile/ZeeshanMulla) [Quora](https://www.quora.com/profile/ZeeshanMulla)
 
 <p align="center">
-<a href="https://dev.to/mullazeeshan">
+<a href="https://dev.to/zeeshanmulla">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mohammed Zeeshan Mulla's DEV Profile" height="30" width="30">
 </a>
 </p>
