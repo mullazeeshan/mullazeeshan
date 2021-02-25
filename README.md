@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/zeeshanmulla?label=Follow&style=social)](https://github.com/zeeshanmulla)
 [![Gitlab](https://img.shields.io/badge/Zeeshan%20Mulla-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/zeeshanmulla)](https://gitlab.com/zeeshanmulla)
 [![Linkedin](https://img.shields.io/badge/-Zeeshan%20Mulla-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/zeeshanmulla/)](https://www.linkedin.com/in/zeeshanmulla/)
-[![Twitter](https://img.shields.io/twitter/follow/zeeshanmulla01?style=social)](https://twitter.com/intent/follow?screen_name=zeeshanmulla01)
+[![Twitter](https://img.shields.io/twitter/follow/zeeeshanmulla?style=social)](https://twitter.com/intent/follow?screen_name=zeeeshanmulla)
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zeeshanmullamail@gmail.com)
 
 [<img  alt="Zeeshan Mulla | Location" width="22px" src="https://www.svgrepo.com/show/77722/placeholder.svg" />](https://zeeshanmulla.github.io) Mumbai, India.
@@ -28,7 +28,7 @@ When in times of leisure,
 
                       
 
-[<img alt="Zeeshan Mulla | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeshanmulla01) [Twitter](https://twitter.com/zeeshanmulla01) | 
+[<img alt="Zeeshan Mulla | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/zeeeshanmulla) [Twitter](https://twitter.com/zeeshanmulla) | 
 [<img alt="Zeeshan Mulla | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zee7868/) [Instagram](https://instagram.com/zee7868) | 
 [<img alt="Zeeshan Mulla | Kaggle" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/zeeshanmulla/) [Kaggle](https://kaggle.com/zeeshanmulla) | 
 [<img alt="Zeeshan Mulla | Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/zeeshanmulla) [Facebook](https://www.facebook.com/zeeshanmulla) |
