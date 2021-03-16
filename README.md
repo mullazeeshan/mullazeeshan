@@ -1,5 +1,5 @@
 ### Hi there I'm Zeeshan - aka [zeeshanmulla](https://bit.ly/zeeshanmulla), [website](https://zeeshanmulla.me) 👋🤗 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mullazeeshan.mullazeeshan&title=profile%20views)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zeeshanmulla.zeeshanmulla&title=profile%20views)
 
 [![Github](https://img.shields.io/github/followers/zeeshanmulla?label=Follow&style=social)](https://github.com/zeeshanmulla)
 [![Gitlab](https://img.shields.io/badge/Zeeshan%20Mulla-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/zeeshanmulla)](https://gitlab.com/zeeshanmulla)
