@@ -12,9 +12,11 @@
 I'm a Data Science practitioner and computer programmer with an avid interest lies in applied ML | DL | NLP.
 
 When in times of leisure,
- - ⚡ Fun fact: I love to cook, spend my time learning, discovering new technologies and watching tech videos, but sometimes I also like to enjoy real life moments. and self-help and varied interest for gaming or variety of sports.. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
-- 👯 I’m looking to collaborate on machine learning and natural language projects, DL Computer vision too interests me and healthcareNLP.
-- 💬 Ask me about ml, bigdata, deep learning, nlp, healthcare, finance.
+- ⚡ Fun fact: I love to cook, spend my time learning, discovering new technologies and watching tech videos, but sometimes I also like to enjoy real life moments. and self-help and varied interest for gaming or variety of sports.. I am usually found pursuing a MooC or reading a book to gain knowledge about the stuff that I don't know or with the intention of deep diving into stuff that I already now.
+- 🌱 I'm currently learning phases of working with SDLC, Data Science Life cycle, exploring python and its functionalities.
+- 🤔 I’m looking for help with improving my understanding of ML algo, DSA, MLops.
+- 👯 I’m looking to collaborate on machine learning and natural language projects, hackathons, DL Computer vision too interests me and healthcare NLP.
+- 💬 Ask me about anything related to tech and work related to it.
 
 
 <h2 style="text-align:center">Social Profiles</h2>
@@ -22,7 +24,7 @@ When in times of leisure,
 [<img  alt="Zeeshan Mulla | Github.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://zeeshanmulla.github.io) [E-Portfolio](https://zeeshanmulla.github.io) |
 [<img alt="Zeeshan Mulla | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zeeshanmulla/) [LinkedIn](https://www.linkedin.com/in/zeeshanmulla) |
 [<img  alt="Zeeshan Mulla | Sourcerer" width="20px" src="https://user-images.githubusercontent.com/20287615/34189346-d426d4c2-e4ef-11e7-9da4-cc76a1ed111d.png" />](https://sourcerer.io/mullazeeshan) [Visual Profile](https://sourcerer.io/mullazeeshan) |
-[<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.link/sz7808) [Click to Chat](https://wa.link/sz7808) |
+[<img alt="Zeeshan Mulla | Whatsapp" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />]() [Click to Chat]() |
 [<img alt="Zeeshan Mulla | Skype" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />](https://join.skype.com/invite/WcqkZEzASXC1) [skype](https://join.skype.com/invite/WcqkZEzASXC1) |
 [<img  alt="Zeeshan Mulla | YourAcclaim" width="20px" src="https://github.com/mullazeeshan/mullazeeshan.github.io/blob/master/js/your-acclaim.jpg" />](https://www.youracclaim.com/users/zeeshanmulla/badges) [YourAcclaim](https://www.youracclaim.com/users/zeeshanmulla/badges)
 
